@@ -39,4 +39,4 @@ print("ABS_list", ABS_list)
 print("ABS_list", ABS_list_2) 
 print(Sum_all)
 
-#I had to look alot up. i have a log way to go
+#I had to look alot up. i have a long way to go
